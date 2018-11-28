@@ -1,5 +1,5 @@
 # `myPathLearn();`
-Mi ruta de aprendizaje para toda persona que desee profundizar en temas de desarrollo web. Lo primero que debes de aprender es a manejar un controlador de versiones, te ayudará a tener mejor organizado el proyecto, olvidate de: **proyectoFinal1, proyectoFinal2, proyectoFinalFinal.** para tus proyectos, aprende **Git & Github** y concentrate el programar. Aprende [Git & Github AQUI](https://www.youtube.com/watch?v=w0hmxHzA_eM&list=PLo4CW_btA6ob3FzTVA8mE_sPSfCMz2IDu)
+Mi ruta de aprendizaje para toda persona que desee profundizar en temas de desarrollo web. Si no sabes nada de programación y deseas comenzar en este hermoso mundo de la programación, te recomiendo hacer este curso **[Programación Básica](https://platzi.com/cursos/programacion-basica/)**. Luego debes de aprender es a manejar un controlador de versiones, te ayudará a tener mejor organizado el proyecto, olvidate de: **proyectoFinal1, proyectoFinal2, proyectoFinalFinal.** para tus proyectos, aprende **Git & Github** y concentrate el programar. Aprende [Git & Github AQUI](https://www.youtube.com/watch?v=w0hmxHzA_eM&list=PLo4CW_btA6ob3FzTVA8mE_sPSfCMz2IDu)
 
 ### Path HTML&CSS
 1. [HTML & CSS Esencial -  Juan Andrés Núñez (31 Videos)](https://www.youtube.com/watch?v=TBEQ8WuAUYY&list=PLM-Y_YQmMEqCae2LNXpk7S6zCjiZQ3252)
