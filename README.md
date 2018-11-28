@@ -1,4 +1,4 @@
-# mypathlearn
+# myPathLearn();
 Mi ruta de aprendizaje para toda persona que desee profundizar en temas de desarrollo web. Lo primero que debes de aprender es a manejar un controlador de versiones, te ayudará a tener mejor organizado el proyecto, olvidate de: **proyectoFinal1, proyectoFinal2, proyectoFinalFinal.** para tus proyectos, aprende **Git & Github** y concentrate el programar. Aprende [Git & Github AQUI](https://www.youtube.com/watch?v=w0hmxHzA_eM&list=PLo4CW_btA6ob3FzTVA8mE_sPSfCMz2IDu)
 
 ### Path HTML&CSS
