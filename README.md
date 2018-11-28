@@ -10,7 +10,8 @@ Dentro de este path te comparto los mejores playlist de Youtube que a lo largo d
 3. [Aprende CSS Grid Práctico (23 videos)](https://www.youtube.com/watch?v=kqB7XD0d0gA&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 
 ### Path Javascript.
-Dentro de este path encontraras videos explicativos paso a paso para aprender de la manera correcta javascript, es indispensable que sigas el orden lógico de los videos para que puedas tener una mejor comprensión de los temas que se iran desarrollando conforme vayas avanzando en tu viaje de aprendizaje para convertirte en un desarrollador web profesional. :) 
+Dentro de este path encontraras videos explicativos paso a paso para aprender de la manera correcta javascript, es indispensable que sigas el orden lógico de los videos para que puedas tener una mejor comprensión de los temas que se iran desarrollando conforme vayas avanzando en tu viaje de aprendizaje para convertirte en un desarrollador web profesional. :)
+
 1. [Fundamentos de Javascript ES6 - Juan Quemada](https://www.youtube.com/watch?v=VhcMZdlKF2U&list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z)
 2. [Aprende JQuery de una vez por todas (42 videos)](https://www.youtube.com/watch?v=HnxSEZ5hQ-A&list=PLM-Y_YQmMEqCYb4p3TO23JW6MdBu_InS5)
 4. [Aprende VueJS2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
