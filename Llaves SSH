@@ -24,3 +24,7 @@ Haz lo siguiente:
         AddKeysToAgent yes
         UseKeychain yes
         IdentityFile ~/.ssh/id_rsa
+
+#Agrega tu llave
+
+ssh-add -K ~/.ssh/id_rsa
